@@ -35,7 +35,8 @@ num_word+=len(word)
 print("number of words ={}".format(num_word))
 
 ### OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Naveenkumarvedarajan/Word-count/assets/147140428/ae54ec39-b46b-425e-b6ec-2655f40227b8)
+
 
 
 
